@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "build",
+    "strict": true,
+    "removeComments": true,
+    "traceResolution": true
+  },
+  "exclude": [
+    "lib/"
+  ],
+  "references": [
+    {"path": "lib/tsconfig.json"}
+  ]
+}

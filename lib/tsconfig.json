@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "build",
+    "strict": true,
+    "traceResolution": true,
+    "declaration": true,
+    "composite": true
+  }
+}
